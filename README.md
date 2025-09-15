@@ -201,4 +201,3 @@ logs/
 MIT (or your preferred license)
 ```
 
-If you want, I can save this as `README.md` in your repo.
